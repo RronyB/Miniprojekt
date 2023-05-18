@@ -1,10 +1,10 @@
 ﻿using System;
 
-class Arrayminimum
+class Arraymin
 {
     public int[] array;
 
-    public int minimum()
+    public int min()
     {
         int minimum = array[0];
         for (int i = 1; i < array.Length; i++)
