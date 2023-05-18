@@ -19,7 +19,7 @@ class Arraymin
 
     static void Main(string[] args)
     {
-        Arrayminimum vargu = new Arrayminimum();
+        Arraymin vargu = new Arraymin();
         int gjatesia;
 
         bool validInput = false;
@@ -56,7 +56,7 @@ class Arraymin
             }
         } while (!validInput);
 
-        int minimum = vargu.minimum();
+        int minimum = vargu.min();
         Console.WriteLine($"Vlera minimale ne varg eshte: {minimum}");
     }
 }
