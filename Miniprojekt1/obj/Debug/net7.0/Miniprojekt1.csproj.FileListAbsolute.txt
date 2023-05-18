@@ -1,0 +1,15 @@
+C:\Users\ledij\OneDrive\Desktop\Miniprojekt1\bin\Debug\net7.0\Miniprojekt1.exe
+C:\Users\ledij\OneDrive\Desktop\Miniprojekt1\bin\Debug\net7.0\Miniprojekt1.deps.json
+C:\Users\ledij\OneDrive\Desktop\Miniprojekt1\bin\Debug\net7.0\Miniprojekt1.runtimeconfig.json
+C:\Users\ledij\OneDrive\Desktop\Miniprojekt1\bin\Debug\net7.0\Miniprojekt1.dll
+C:\Users\ledij\OneDrive\Desktop\Miniprojekt1\bin\Debug\net7.0\Miniprojekt1.pdb
+C:\Users\ledij\OneDrive\Desktop\Miniprojekt1\obj\Debug\net7.0\Miniprojekt1.csproj.AssemblyReference.cache
+C:\Users\ledij\OneDrive\Desktop\Miniprojekt1\obj\Debug\net7.0\Miniprojekt1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ledij\OneDrive\Desktop\Miniprojekt1\obj\Debug\net7.0\Miniprojekt1.AssemblyInfoInputs.cache
+C:\Users\ledij\OneDrive\Desktop\Miniprojekt1\obj\Debug\net7.0\Miniprojekt1.AssemblyInfo.cs
+C:\Users\ledij\OneDrive\Desktop\Miniprojekt1\obj\Debug\net7.0\Miniprojekt1.csproj.CoreCompileInputs.cache
+C:\Users\ledij\OneDrive\Desktop\Miniprojekt1\obj\Debug\net7.0\Miniprojekt1.dll
+C:\Users\ledij\OneDrive\Desktop\Miniprojekt1\obj\Debug\net7.0\refint\Miniprojekt1.dll
+C:\Users\ledij\OneDrive\Desktop\Miniprojekt1\obj\Debug\net7.0\Miniprojekt1.pdb
+C:\Users\ledij\OneDrive\Desktop\Miniprojekt1\obj\Debug\net7.0\Miniprojekt1.genruntimeconfig.cache
+C:\Users\ledij\OneDrive\Desktop\Miniprojekt1\obj\Debug\net7.0\ref\Miniprojekt1.dll
